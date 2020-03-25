@@ -25,7 +25,7 @@ SECRET_KEY = 'tej!ovls^((09694wgl%cpz&gmlcd=k+v!$xfnz#j1*7s(0@rk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
